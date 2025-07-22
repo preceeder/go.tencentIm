@@ -2,7 +2,7 @@ package tencentIm
 
 import (
 	"github.com/go-resty/resty/v2"
-	"github.com/preceeder/go/base"
+	"github.com/preceeder/go.base"
 	"reflect"
 	"testing"
 )

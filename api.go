@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/preceeder/go/base"
+	"github.com/preceeder/go.base"
 	"log/slog"
 	"math/rand/v2"
 	"slices"

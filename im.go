@@ -2,13 +2,13 @@ package tencentIm
 
 import (
 	"github.com/go-resty/resty/v2"
-	"github.com/preceeder/go/base"
+	"github.com/preceeder/go.base"
+	"github.com/preceeder/go.tencentIm/ECDSASHA256"
+	"github.com/preceeder/go.tencentIm/HMACSHA256"
 	"log/slog"
 	"net/http"
 	"net/url"
 	"strconv"
-	"tencent/tencentIm/ECDSASHA256"
-	"tencent/tencentIm/HMACSHA256"
 	"time"
 )
 
